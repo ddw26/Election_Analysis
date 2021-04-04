@@ -29,4 +29,16 @@ The winner of the election based on popular vote was Diane DeGette, having 73.8%
 
 ## Challenge Overview
 
+Seth and Tom are pleased with the election audit results to the election committe, however the election committe requested additional data to complete the audit.
+
+The additional data requests as follows:
+1. Voter turn out for each county
+2. Percentage of votes from each county out of the total count
+3. The county with the highest turn out
+
 ## Challenge Summary
+Here is the additional data which completes the audit
+- Voter turn out for each county
+- Percentage of votes by each county
+- County with the highest turn out
+- 
